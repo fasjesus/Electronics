@@ -1,0 +1,9 @@
+O DHT11 é um sensor de umidade e temperatura integrado em um só módulo de baixo custo. Este sensor utiliza um termistor para medir a temperatura e um sensor capacitivo para medir a umidade do ambiente. Este sensor é uma excelente opção para monitoranento e controle climatização.
+
+O DHT11 possuí um controlador de 8 bits que converte o sinal de temperatura e umidade dos sensores e um sinal serial e envia ao Arduino através do pino de dados (Data).
+
+O sensor DHT11 pode medir temperaturas entre 0 a 50º Celsius com uma precisão de 2 graus, e umidade entre 20 a 90 % com uma precisão de 5%.
+
+Nota: é importante usar um resistor pullup de 4,7k a 10kOhm ligando o pino de saída de dados ao pino de alimentação.
+
+Esse sensor é muito prático, sendo muito utilizado em projetos com placas Arduino, como o Arduino Uno e Arduino Mega (que é arduino).

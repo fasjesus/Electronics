@@ -1,0 +1,3 @@
+Falha ao ler o sensor DHT!
+Falha ao ler o sensor DHT!
+Falha ao ler o sensor DHT!

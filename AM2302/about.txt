@@ -1,0 +1,5 @@
+Specs AM2302:
+
+O Sensor de Umidade e Temperatura DHT22 / AM2302 é um dos componentes mais utilizados em projetos que envolva medição de temperatura e umidade ambiente. Este sensor faz medições de temperatura de -40º até 80º celsius e mede a umidade do ar nas faixas de 0 a 100%. A precisão (margem de erro) do sensor para medição de temperatura é de aproximadamente 0,5º celsius e para umidade é de 2%.
+
+Este Sensor de Umidade e Temperatura DHT22 / AM2302 pode ser utilizado em diversos projetos com Arduino, PIC, Raspberry, NodeMCU ESP8266 e outras plataformas microcontroladas. Em projetos de automação residencial, por exemplo, pode ser utilizado em locais que seja necessário obter temperatura e umidade ambiente de forma constante e essas informações serão enviadas ao microcontrolador que está conectado a internet, para em seguida serem apresentadas na tela de um smartphone ou tablet Android.
